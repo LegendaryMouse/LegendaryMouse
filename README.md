@@ -1,2 +1,2 @@
-https://mousearth.ru
+https://mousearth.ru /n
 https://replit.com/@AndrewLMouse
