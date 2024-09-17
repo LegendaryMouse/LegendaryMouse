@@ -9,4 +9,4 @@
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://unimice.ru)
 </center>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LegendaryMouse)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LegendaryMouse&theme=highcontrast&border_radius=25&date_format=j%20M%5B%20Y%5D&card_width=550&card_height=210)](https://git.io/streak-stats)
