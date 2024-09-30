@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://unimice.ru/personal" target="_blank">LMouse</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, web-developer from Russia 🇷🇺</h3
+ <h3 align="center"><a hrerf="https:/unimice.ru">Unimice</a> CEO</h3
+
   <center>
     
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
