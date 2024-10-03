@@ -12,4 +12,4 @@
 </center>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LegendaryMouse&theme=highcontrast&border_radius=25&date_format=j%20M%5B%20Y%5D&card_width=550&card_height=210)](https://git.io/streak-stats)
- <h3 align="center">7 commit streak goal!</h3>
+ <h3 align="center">Weak of daily commits challenge!</h3>
