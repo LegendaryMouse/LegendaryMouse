@@ -14,4 +14,6 @@
 </center>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LegendaryMouse&theme=highcontrast&border_radius=25&date_format=j%20M%5B%20Y%5D&card_width=550&card_height=210)](https://git.io/streak-stats)
- <h3 align="center">Weak of daily commits challenge! (6/7)</h3>
+ <h3 align="center">Weak of daily commits challenge completed! (7/7)</h3>
+  <h3 align="center">Month of daily commits challenge! (7/30)</h3>
+
