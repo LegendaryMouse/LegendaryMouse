@@ -14,5 +14,5 @@
 </center>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LegendaryMouse&theme=highcontrast&border_radius=25&date_format=j%20M%5B%20Y%5D&card_width=550&card_height=210)](https://git.io/streak-stats)
- <h3 align="center">Month of daily commits challenge! (16/30)</h3>
+ <h3 align="center">Month of daily commits challenge! (0/30)</h3>
 
